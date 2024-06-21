@@ -14,9 +14,9 @@ const Header = () => {
         <div className="hidden xl:flex items-center gap-8">
           <Nav />
           <Link href="/contact">
-            <Button className="shadow-sm transition-all duration-200 ease-in-out shadow-blue-300 ml-4 hover:shadow-blue-300 hover:shadow-lg">
+            {/*<Button className="shadow-sm transition-all duration-200 ease-in-out shadow-blue-300 ml-4 hover:shadow-blue-300 hover:shadow-lg">
               Contact
-            </Button>
+            </Button>*/}
           </Link>
         </div>
 

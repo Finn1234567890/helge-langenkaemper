@@ -13,8 +13,8 @@ const stats = [
         text: "Sites managed"
     },
     {
-        num: 150,
-        text: "Million generated"
+        num:  150,
+        text: "Example stat"
     }
 ]
 
